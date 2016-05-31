@@ -1,5 +1,5 @@
 // File:        a1simpledriver.cpp
-// Author:      (your name here) / Geoffrey Tien
+// Author:      Justin Yoon / Geoffrey Tien
 // Date:        2016-05021
 // Description: Basic test driver for CPSC 221 assignment #2
 //              This file tests some functions of the CCQueue and LinkedList classes of assignment #2.
